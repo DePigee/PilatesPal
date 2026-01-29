@@ -1,0 +1,27 @@
+Here's the text content from your Privacy Policy screen:
+
+---
+
+**Privacy Policy**
+
+Last updated: January 2025
+
+**Information We Collect**
+
+Pilates 75 Hard collects and stores your workout data locally on your device. This includes your workout history, preferences, and progress data.
+
+**How We Use Your Information**
+
+Your workout data is used solely to provide you with personalized workout recommendations and track your progress through the 75 Hard challenge. We do not share your data with third parties.
+
+**Data Storage**
+
+All data is stored locally on your device using secure storage mechanisms provided by the operating system. We do not collect or transmit your personal data to external servers.
+
+**Your Rights**
+
+You can delete all your data at any time by uninstalling the application. If you have any questions about your data, please contact us.
+
+**Contact Us**
+
+If you have questions about this privacy policy, please contact us at support@pilates75hard.app
